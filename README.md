@@ -46,7 +46,7 @@ The goal of this homelab is to build, secure, and monitor a hybrid IT network fr
 
 ---
 
-## 🏗️ Network Architecture
+## 🏗️ Network Diagram
 
 <img width="6462" height="3324" alt="ADLAB drawio" src="https://github.com/user-attachments/assets/98a80418-9fd3-4f11-a94f-9e6cdeaa366e" />
 
