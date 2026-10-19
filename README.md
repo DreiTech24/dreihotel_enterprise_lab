@@ -46,6 +46,12 @@ The goal of this homelab is to build, secure, and monitor a hybrid IT network fr
 
 ---
 
+## 🏗️ Network Architecture
+
+![Uploading ADLAB.drawio.png…]()
+
+
+
 ## 💻 Active Directory Automation Script (PowerShell)
 
 To efficiently provision employee accounts, I wrote and executed the following PowerShell script. It automatically creates Organizational Units (OUs), generates standard usernames, assigns default passwords, and enforces a strict password reset upon the user's first login.
